@@ -1,0 +1,1 @@
+This notebook contains an overview of EDA (exploratory data analysis) on heart disease data. It will cover Pandas, Seaborn and Matplotlib graphing tools as well as ML models for predicting patient heart disease. Check out my blog: https://medium.com/@ariabarv
